@@ -34,3 +34,6 @@ int main() {
 
   return 0;
 }
+//You are correct that the number of passes required to sort an array using insertion sort is equal to the number of elements in the array minus 1 in the worst case. 
+//This is because the first element is already considered to be sorted after the first pass, so the algorithm only needs to make passes through the remaining elements 
+//in the array.
